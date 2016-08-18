@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[TheArtOfMx]]></title>
         <description><![CDATA[TheArtOfMx]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/theartofmx/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 15:31:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Aug 2016 15:37:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/theartofmx/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7dcef9ca-2c8a-436b-9852-937210fdbadf.jpg">]]></description>
-            <link>undefinedtitle/index.html</link>
+            <link>https://thegrid.ai/theartofmx/title/index.html</link>
             <guid isPermaLink="false">54239036-8dd3-464a-9c89-e769ea9d1802</guid>
-            <pubDate>Thu, 18 Aug 2016 15:31:07 GMT</pubDate>
+            <pubDate>Thu, 18 Aug 2016 15:36:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
