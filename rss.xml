@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[TheArtOfMx]]></title>
         <description><![CDATA[TheArtOfMx]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/theartofmx/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 15:23:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Aug 2016 15:25:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/theartofmx/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[2015 Zombie Pub Crawl]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/67f00cc8-118b-4ee6-ad23-d5a395d67e9b.jpg">]]></description>
-            <link>undefined2015-zombie-pub-crawl/index.html</link>
+            <link>https://thegrid.ai/theartofmx/2015-zombie-pub-crawl/index.html</link>
             <guid isPermaLink="false">2142042d-f3c7-4283-ac64-8ca905a59e60</guid>
-            <pubDate>Thu, 18 Aug 2016 15:23:23 GMT</pubDate>
+            <pubDate>Thu, 18 Aug 2016 15:25:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
