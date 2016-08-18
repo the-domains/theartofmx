@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 2015 Zombie Pub Crawl
-datePublished: '2016-08-18T15:23:23.168Z'
-dateModified: '2016-08-18T15:23:20.259Z'
+datePublished: '2016-08-18T15:25:40.565Z'
+dateModified: '2016-08-18T15:23:31.550Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-18-2015-zombie-pub-crawl.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-18-2015-zombie-pub-crawl.md
 url: 2015-zombie-pub-crawl/index.html
 _type: Article
 
